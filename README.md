@@ -1,5 +1,5 @@
 # Newscatcher
-**Programmatically collect normalized news from (almost) any website.**
+**Programmatically collect normalized News from (almost) any website.**
 
 Filter by **topic**, **country**, or **language**.
 
